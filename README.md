@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Sourish Pal 👋
 
-<!--
-**sourishpal2031/sourishpal2031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | Azure + AWS + Databricks
 
-Here are some ideas to get you started:
+I build scalable data platforms focused on:
+- Azure Data Factory (ADF)
+- Azure Databricks
+- ADLS Gen2
+- Azure Event Hub
+- PySpark & Delta Lake
+- AWS Glue / Athena / Redshift
+- Lakehouse Architecture
+- SCD2 / CDC / Incremental Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+### Urban Mobility Intelligence Platform
+End-to-end Azure + Databricks streaming + batch architecture with:
+- FastAPI ride booking app
+- Event Hub streaming
+- Bronze / Silver / Gold Medallion
+- Star Schema
+- Delta Lake optimization
+
+### Enterprise Lakehouse Modernization
+- Lakehouse Federation
+- Query optimization
+- Incremental framework design
+
+---
+
+## Certifications
+- AWS Certified Data Engineer Associate
+- Databricks Certified Data Engineer Associate
+
+---
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/sourishpal2031
